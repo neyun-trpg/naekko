@@ -13,9 +13,10 @@ GitHub Actions가 5분마다 방을 확인하고, 새 메시지가 있으면 [nt
 
 ## 설정 방법
 
-### 1. 이 파일들로 GitHub 저장소 만들기
+### 1. GitHub 저장소 만들기
 
-새 저장소(비공개 추천)를 만들고 아래 파일들을 그대로 올립니다.
+초록색 "Use this template" 버튼 클릭 → "Create a new repository"
+
 
 ```
 ccfolia_watch.py
