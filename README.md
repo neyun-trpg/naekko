@@ -17,13 +17,6 @@ GitHub Actions가 5분마다 방을 확인하고, 새 메시지가 있으면 [nt
 
 초록색 "Use this template" 버튼 클릭 → "Create a new repository"
 
-
-```
-ccfolia_watch.py
-requirements.txt
-.github/workflows/ccfolia-watch.yml
-```
-
 ### 2. 알림 받을 "토픽" 이름 정하기
 
 ntfy는 회원가입 없이, 정한 "토픽 이름"으로 알림을 주고받는 방식입니다.
