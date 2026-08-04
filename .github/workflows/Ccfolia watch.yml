@@ -5,6 +5,7 @@ on:
     # GitHub Actions의 스케줄은 정확히 5분마다 실행되지 않을 수 있고,
     # 트래픽이 몰리면 몇 분 정도 지연될 수 있습니다.
     - cron: "*/5 * * * *"
+        # 스케줄러 재등록 트리거용 사소한 변경
   workflow_dispatch: {}   # Actions 탭에서 수동으로도 실행 가능
 
 permissions:
